@@ -6,5 +6,8 @@ Ques3: <a href="https://leetcode.com/problems/longest-common-prefix/submissions/
 Ques4: <a href="https://leetcode.com/submissions/detail/1107597913/">Maximum Nesting Depth of the Parentheses
 </a><br>
 Ques5: <a href="https://leetcode.com/problems/integer-to-roman/submissions/1109512244/">Integer to Roman</a><br>
+Ques6: <a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1110632082/">Find the Smallest Divisor Given a Threshold
+</a><br>
+
 
 
