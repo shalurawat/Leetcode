@@ -8,7 +8,7 @@ Ques4: <a href="https://leetcode.com/submissions/detail/1107597913/">Maximum Nes
 Ques5: <a href="https://leetcode.com/problems/integer-to-roman/submissions/1109512244/">Integer to Roman</a><br>
 Ques6: <a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1110632082/">Find the Smallest Divisor Given a Threshold
 </a><br>
-Ques7: <a href="https://leetcode.com/problems/reverse-linked-list/submissions/1111285406/">Remove outermost Paranthesis(Recursive)</a><br>
+Ques7: <a href="https://leetcode.com/problems/reverse-linked-list/submissions/1111285406/">Reverse Linked List(Recursive)</a><br>
 
 
 
