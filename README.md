@@ -11,6 +11,7 @@ Ques6: <a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-
 Ques7: <a href="https://leetcode.com/problems/reverse-linked-list/submissions/1111285406/">Reverse Linked List(Recursive)</a><br>
 Ques8: <a href="">Length of Loop in LL</a><br>
 Ques9: <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1112341344/">Intersection of Two Linked Lists</a><br>
+Ques10: <a href=""> Delete all occurrences of a given key in a doubly linked list</a><br>
 
 
 
