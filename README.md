@@ -12,6 +12,7 @@ Ques7: <a href="https://leetcode.com/problems/reverse-linked-list/submissions/11
 Ques8: <a href="">Length of Loop in LL</a><br>
 Ques9: <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1112341344/">Intersection of Two Linked Lists</a><br>
 Ques10: <a href=""> Delete all occurrences of a given key in a doubly linked list</a><br>
+Ques11: <a href="https://leetcode.com/problems/rotate-list/submissions/1114519638/"> Rotate List</a><br>
 
 
 
