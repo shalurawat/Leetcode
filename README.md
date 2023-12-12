@@ -14,6 +14,7 @@ Ques9: <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/s
 Ques10: <a href=""> Delete all occurrences of a given key in a doubly linked list</a><br>
 Ques11: <a href="https://leetcode.com/problems/rotate-list/submissions/1114519638/"> Rotate List</a><br>
 Ques12: <a href="https://leetcode.com/submissions/detail/1118180894/"> Merge Sort</a><br>
+Ques13: <a href=""> Quick Sort</a><br>
 
 
 
