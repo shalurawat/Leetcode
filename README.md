@@ -15,6 +15,7 @@ Ques10: <a href=""> Delete all occurrences of a given key in a doubly linked lis
 Ques11: <a href="https://leetcode.com/problems/rotate-list/submissions/1114519638/"> Rotate List</a><br>
 Ques12: <a href="https://leetcode.com/submissions/detail/1118180894/"> Merge Sort</a><br>
 Ques13: <a href=""> Quick Sort</a><br>
+Ques14: <a href=""> Reverse Stack Using Recursion</a><br>
 
 
 
