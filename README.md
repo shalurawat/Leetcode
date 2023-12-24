@@ -23,6 +23,9 @@ Ques18: <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/su
 Ques19: <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1127502889/">Binary Tree Inorder Traversal</a><br>
 Ques20: <a href="">Binary Tree Postorder Traversal</a><br>
 Ques21: <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1127517841/">Binary Tree Level Order Traversal</a><br>
+Ques22: <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1127517841/">Maximum Depth of Binary Tree</a><br>
+Ques23: <a href="https://leetcode.com/problems/balanced-binary-tree/submissions/1127546009/">Balanced Binary Tree</a><br>
+
 
 
 
