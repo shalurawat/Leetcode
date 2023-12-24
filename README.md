@@ -19,6 +19,7 @@ Ques14: <a href=""> Reverse Stack Using Recursion</a><br>
 Ques15: <a href="https://leetcode.com/problems/implement-stack-using-queues/submissions/1123988271/">Implement Stack using Queues </a><br>
 Ques16: <a href="https://leetcode.com/problems/implement-queue-using-stacks/submissions/1123973215/"> Implement Queue using Stacks</a><br>
 Ques17: <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1127187908/">Kth Largest Element in an Array </a><br>
+Ques18: <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1127221221/">Binary Tree Preorder Traversal</a><br>
 
 
 
