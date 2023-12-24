@@ -21,6 +21,9 @@ Ques16: <a href="https://leetcode.com/problems/implement-queue-using-stacks/subm
 Ques17: <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1127187908/">Kth Largest Element in an Array </a><br>
 Ques18: <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/1127221221/">Binary Tree Preorder Traversal</a><br>
 Ques19: <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1127502889/">Binary Tree Inorder Traversal</a><br>
+Ques20: <a href="">Binary Tree Postorder Traversal</a><br>
+Ques21: <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1127517841/">Binary Tree Level Order Traversal</a><br>
+
 
 
 
